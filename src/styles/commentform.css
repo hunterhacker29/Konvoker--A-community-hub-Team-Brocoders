@@ -1,0 +1,71 @@
+.card-comment-form {
+  border: 1px solid #444;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #222;
+  color: #ddd;
+  padding: 20px;
+}
+
+.card-body-comment-form {
+  padding: 20px;
+}
+
+.card-title-comment-form {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.form-group-comment-form {
+  margin-bottom: 1rem;
+}
+
+.form-control-comment-form {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #666;
+  border-radius: 4px;
+  background-color: #333;
+  color: #ddd;
+}
+
+.text-right-comment-form {
+  text-align: right;
+  margin-top: 1rem;
+}
+
+.btn-submit-comment-form {
+  background-color: #007bff;
+  color: #fff;
+  border-color: #007bff;
+}
+
+.btn-cancel-comment-form {
+  background-color: #6c757d;
+  color: #fff;
+  border-color: #6c757d;
+}
+
+.comment-form-component.dark-mode {
+  background-color: #333;
+  color: #ddd;
+  border-color: #555;
+}
+
+.comment-form-component.dark-mode .form-control-comment-form {
+  background-color: #444;
+  color: #ddd;
+  border-color: #666;
+}
+
+.comment-form-component.dark-mode .btn-submit-comment-form {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.comment-form-component.dark-mode .btn-cancel-comment-form {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}

@@ -1,0 +1,71 @@
+#sign-up {
+    background-image: url('https://thumbs.dreamstime.com/z/establish-your-own-online-community-to-increase-website-traffic-text-background-word-cloud-concept-establish-your-own-online-96694680.jpg');
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the background image */
+  height: 100vh; /* Full height of viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+   }
+   
+   .sign-up-container {
+    background-color: #6b6b6bda; /* White background for form */
+    padding: 30px;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+   }
+   
+   #sign-up-h1 {
+    text-align: center;
+    color: #6c6c6c; /* Vibrant blue heading */
+    margin-bottom: 20px;
+   }
+   
+   .sign-up-input-field {
+    margin-bottom: 15px;
+   }
+   
+   .sign-up-input-field label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ffffff; /* Vibrant blue label */
+   }
+   
+   .sign-up-input-field input {
+    padding: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: 100%;
+   }
+   
+   #sign-up-button {
+    background-color: #91bcd7; /* Vibrant blue button */
+    color: #7e7e7e; /* White button text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+   }
+   
+   #sign-up-button:hover {
+    background-color: #2980b9; /* Darker blue on hover */
+    color: #d4d2d2; /* White button text */
+
+}
+   
+   .sign-up-no-account {
+    text-align: center;
+    margin-top: 15px;
+   }
+   
+   .sign-up-no-account a {
+    color: #3498db; /* Vibrant blue links */
+    transition: color 0.2s ease-in-out;
+   }
+   
+   .sign-up-no-account a:hover {
+    color: #2980b9; /* Darker blue on hover */
+   }
+   

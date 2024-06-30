@@ -1,0 +1,50 @@
+.createc-card {
+    background-color: #272729;
+    border: none;
+    border-radius: 8px;
+  }
+  
+  .createc-card .card-body {
+    padding: 20px;
+  }
+  
+  .createc-card .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .createc-card .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .createc-card .form-control {
+    background-color: #3a3a3c;
+    color: #d7dadc;
+    border: none;
+  }
+  
+  .createc-card .form-control::placeholder {
+    color: #7c7c7c;
+  }
+  
+  .createc-card .custom-file-input {
+    background-color: #3a3a3c;
+    color: #d7dadc;
+    border: none;
+  }
+  
+  .createc-card .custom-file-label {
+    color: #d7dadc;
+  }
+  
+  .createc-card .input-group-text {
+    background-color: #3a3a3c;
+    color: #d7dadc;
+    border: none;
+  }
+  
+  .createc-card label {
+    color: #d7dadc;
+  }
+  
